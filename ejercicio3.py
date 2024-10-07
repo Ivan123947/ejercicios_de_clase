@@ -6,3 +6,5 @@ print(type(peso))
 
 print("dime tu altura")
 altura = float(input())
+print(type(altura))
+#print(type(altura))
